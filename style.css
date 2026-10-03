@@ -6,11 +6,8 @@ p{
 }
 button{
     color:brown;
+    background-color: bisque;
 }
 body{
     background-color: beige;
-}
-
-button{
-    background-color: bisque;
 }
